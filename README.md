@@ -1,1 +1,3 @@
-# 20210610_hara_LikeTwitter-Backend
+# 20210610_hara_LikeTwitterPj-Backend
+Twitter風SNSアプリケーションのバックエンド
+Laravel
